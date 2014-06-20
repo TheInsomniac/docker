@@ -22,7 +22,7 @@ downloaded for each container built with this base.
 ####USAGE:
     git clone https://github.com/TheInsomniac/docker
     cd docker/nodejs
-    docker build --rm YOURIMAGENAME .
+    docker build --rm -t YOURIMAGENAME .
 #####Container:
 _Dockerfile_:  
 
